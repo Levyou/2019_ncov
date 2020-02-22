@@ -5,4 +5,4 @@
 ## 网页框架
 修改自https://github.com/Jannchie/Historical-ranking-data-visualization-based-on-d3.js
 ## 使用
-用chrome或firefox打开bargraph.html,上传XX.csv
+用chrome或firefox打开bargraph.html,上传outXX.csv
