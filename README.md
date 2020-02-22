@@ -1,3 +1,4 @@
+<center>2019_ncov 各省份累计确诊人数柱状图随时间的动态变化</center>
 # 数据说明
 源数据使用 https://github.com/BlankerL 的 https://github.com/BlankerL/DXY-COVID-19-Data/blob/master/csv/DXYArea.csv
 按需清洗得到所需数据。
